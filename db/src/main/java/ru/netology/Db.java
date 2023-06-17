@@ -1,5 +1,5 @@
 /*
-Класс Db - связывает Dbsetting и MyEntity.
+Класс Db - связывает DbSetting и MyEntity.
  */
 package ru.netology;
 
